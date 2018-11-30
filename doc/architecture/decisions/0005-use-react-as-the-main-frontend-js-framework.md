@@ -1,10 +1,12 @@
-# 3. Use Angular as the main frontend JS framework
+# 5. Use React as the main frontend JS framework
 
 Date: 2018-11-30
 
 ## Status
 
-Superceded by [5. Use React as the main frontend JS framework](0005-use-react-as-the-main-frontend-js-framework.md)
+Accepted
+
+Supercedes [3. Use Angular as the main frontend JS framework](0003-use-ember-as-the-main-frontend-js-framework.md)
 
 ## Context
 
